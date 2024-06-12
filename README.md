@@ -6,4 +6,4 @@
 -    bazarbajsaat99@gmail.com
 -    https://www.linkedin.com/in/sayatb/
 -    https://www.instagram.com/sayatemespin/
--    https://t.me/saydin4ik
+-    https://t.me/sayatemespin
