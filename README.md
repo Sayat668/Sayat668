@@ -3,6 +3,7 @@
 - 🌱 I am currently learning Docker, C, gRPC, Rest, JSONRPC, Graphql, NoSQL (MongoDB, Redis ect.), ...
 - 💞️ I’m looking to collaborate on Web-projects with Golang
 - 📫 How to reach me:
+-    bazarbajsaat99@gmail.com
 -    https://www.linkedin.com/in/sayatb/
 -    https://www.instagram.com/sayatemespin/
 -    https://t.me/saydin4ik
