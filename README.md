@@ -7,3 +7,4 @@
 -    https://www.linkedin.com/in/sayatb/
 -    https://www.instagram.com/sayatemespin/
 -    https://t.me/sayatemespin
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6669859c59bd70fae21ac600?variant=dark" alt="roadmap.sh"/></a>
